@@ -8,13 +8,11 @@ export default class App extends Component {
     this.state = {
       data: [
         {
-          id: 1,
           name:
             "nhiem vu 111111111111111 11111111111 1111111111111111111111 11111 11111111111111111111111111",
           complete: false
         },
         {
-          id: 2,
           name: "nhiem vu 2",
           complete: false
         },
